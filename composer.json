@@ -1,0 +1,19 @@
+{
+    "name": "game/game",
+    "description": "this is test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Game\\Game\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aabhash gauda",
+            "email": "aabhashgauda1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
